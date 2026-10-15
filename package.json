@@ -1,0 +1,14 @@
+{
+  "name": "pathfinder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DSA practice for product-company interviews, in JavaScript",
+  "scripts": {
+    "test": "node 01-complexity/optimize/run-tests.js",
+    "test:one": "node 01-complexity/optimize/run-tests.js",
+    "test:reference": "USE_REFERENCE=1 node --test 01-complexity/optimize/optimize.test.js",
+    "bench": "node 01-complexity/optimize/bench.js",
+    "progress": "node scripts/progress.js"
+  },
+  "engines": { "node": ">=20" }
+}
