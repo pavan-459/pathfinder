@@ -1,6 +1,6 @@
 # Concepts
 
-JavaScript, Node.js and GraphQL theory that came up in interview rounds, with small examples you can run. First added after the [Marriott Tech Accelerator round](../interviews/2026-10-21-marriott.md).
+JavaScript, Node.js and GraphQL theory that came up in interview rounds, with small examples you can run. First added after the [Marriott Tech Accelerator round](../interviews/2026-10-16-marriott.md).
 
 Every output shown in these notes comes from actually running the code in Node.js 22. No packages to install.
 

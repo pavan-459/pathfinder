@@ -1,7 +1,7 @@
 // =============================================================
 //  LC 121 · Best Time to Buy and Sell Stock               [E]
 //  Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-//  Date: 21 Oct 2026. Asked at Marriott Tech Accelerator as
+//  Date: 16 Oct 2026. Asked at Marriott Tech Accelerator as
 //  "explain your approach" (no code). Written up after the round.
 // -------------------------------------------------------------
 //  Pattern (say it BEFORE coding):
