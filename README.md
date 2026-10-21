@@ -11,6 +11,7 @@ It started from real interview feedback (ServiceNow, Oct 2026): practise arrays 
 | [`01-complexity/`](./01-complexity) | **Start here.** In-depth guide to time and space complexity, 30 analysis exercises (easy → hard), and 9 "optimise the brute force" problems with tests |
 | [`roadmap.md`](./roadmap.md) | The full plan: Module 1 plus 46 LeetCode problems in 5 phases, as a checklist |
 | [`problems/`](./problems) | My solutions, one file per problem, each with pattern, approach, edge cases, and time/space |
+| [`concepts/`](./concepts) | JS, Node.js and GraphQL theory from interview rounds (scope, event loop, libuv, N+1), with runnable examples |
 | [`interviews/`](./interviews) | A log of every interview round: questions, mistakes, feedback, action items |
 
 ## Commands

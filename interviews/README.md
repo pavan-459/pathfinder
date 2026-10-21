@@ -5,3 +5,4 @@ One file per round, named `YYYY-MM-DD-company.md`. Write it the same day while y
 | Date | Company | Round | Outcome | Main lesson |
 |---|---|---|---|---|
 | 2026-10-15 | ServiceNow | SWE, Round 1 (DSA + React) | Waiting | Name the pattern before coding; know complexity cold |
+| 2026-10-21 | Marriott Tech Accelerator | SWE (GraphQL API), Round 1 (theory + approach) | Waiting | GraphQL N+1 and Node internals (event loop, libuv) asked in depth |
